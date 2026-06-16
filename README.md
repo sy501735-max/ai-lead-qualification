@@ -1,2 +1,1 @@
-# ai-lead-qualification
-Open-source AI lead scoring and customer inquiry classification system.
+Helps small businesses respond faster and focus on high-intent customers.
